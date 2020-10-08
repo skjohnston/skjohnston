@@ -1,0 +1,23 @@
+body {
+    font-family: Garamond;
+      background-color: #e5e7e4;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2{
+    text-align: center;
+  }
+  
+  table {
+    border: 2px solid black;
+    width: 1050px;
+    margin: 0 auto;
+  }
+  
+  td, th {
+    border-top: 1px solid #18180E;
+  }
+  
